@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Promptly</title>
+        <item>
+            <title>1.5.5</title>
+            <pubDate>Sun, 23 Feb 2025 11:38:58 +0000</pubDate>
+            <sparkle:version>1.5.5</sparkle:version>
+            <sparkle:shortVersionString>1.5.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/chrisgreg/promptly-releases/releases/download/v1.5.5/Promptly.dmg" length="3820972" type="application/octet-stream" sparkle:edSignature="sqG1YooGTC3JiGtTRoRVamBgUwIQno3jcca0dRddUKvdZoShHVx9BlQd51pXpPSFT14fDWlHsSx/zV/D3/59CA=="/>
+        </item>
+    </channel>
+</rss>

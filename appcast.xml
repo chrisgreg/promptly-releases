@@ -3,6 +3,14 @@
     <channel>
         <title>Promptly</title>
         <item>
+            <title>1.6.1</title>
+            <pubDate>Fri, 07 Mar 2025 18:08:33 +0000</pubDate>
+            <sparkle:version>1.6.1</sparkle:version>
+            <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/chrisgreg/promptly-releases/releases/download/v1.6.1/Promptly.dmg" length="3858157" type="application/octet-stream" sparkle:edSignature="YNEoGOuL58dnj/BDgt7Co7L4T/O+wrnciR1MMQwn4HcKvXqwRguODVbI7RKP8xDya11FEIgbbJN15wAQUc47Cg=="/>
+        </item>
+        <item>
             <title>1.6.0</title>
             <pubDate>Mon, 03 Mar 2025 19:03:03 +0000</pubDate>
             <sparkle:version>1.6.0</sparkle:version>

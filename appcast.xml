@@ -3,12 +3,20 @@
     <channel>
         <title>Promptly</title>
         <item>
+            <title>1.7</title>
+            <pubDate>Fri, 20 Jun 2025 15:10:08 +0100</pubDate>
+            <sparkle:version>1.7</sparkle:version>
+            <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://chrisgreg.github.io/promptly-releases/Promptly.dmg" length="6981640" type="application/octet-stream" sparkle:edSignature="hu14fPx0Fqp2IR3FizC4OAeYTM4hlqqB6w/jUNI0rKfvAh1hD7iRUH7a2ZLOFBE6O+MvZjrZ3e95aNR42HEABQ=="/>
+        </item>
+        <item>
             <title>1.6.1</title>
             <pubDate>Fri, 07 Mar 2025 18:08:33 +0000</pubDate>
             <sparkle:version>1.6.1</sparkle:version>
             <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/chrisgreg/promptly-releases/releases/download/v1.6.1/Promptly.dmg" length="3858157" type="application/octet-stream" sparkle:edSignature="YNEoGOuL58dnj/BDgt7Co7L4T/O+wrnciR1MMQwn4HcKvXqwRguODVbI7RKP8xDya11FEIgbbJN15wAQUc47Cg=="/>
+            <enclosure url="https://chrisgreg.github.io/promptly-releases/Promptly.dmg" length="3858157" type="application/octet-stream" sparkle:edSignature="YNEoGOuL58dnj/BDgt7Co7L4T/O+wrnciR1MMQwn4HcKvXqwRguODVbI7RKP8xDya11FEIgbbJN15wAQUc47Cg=="/>
         </item>
         <item>
             <title>1.6.0</title>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/chrisgreg/promptly-releases/releases/download/v1.6.0/Promptly.dmg" length="3852163" type="application/octet-stream" sparkle:edSignature="WNTY2EExJZ6RQ6xiwsXXnzS/R23UZxDXnAeVUIpPjGQA/SDrLVmymnjNYlPzmRSEty+7fooGJZLbD8uKD77lAA=="/>
-        </item>
-        <item>
-            <title>1.5.5</title>
-            <pubDate>Sun, 23 Feb 2025 11:38:58 +0000</pubDate>
-            <sparkle:version>1.5.5</sparkle:version>
-            <sparkle:shortVersionString>1.5.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/chrisgreg/promptly-releases/releases/download/v1.5.5/Promptly.dmg" length="3820972" type="application/octet-stream" sparkle:edSignature="sqG1YooGTC3JiGtTRoRVamBgUwIQno3jcca0dRddUKvdZoShHVx9BlQd51pXpPSFT14fDWlHsSx/zV/D3/59CA=="/>
         </item>
     </channel>
 </rss>

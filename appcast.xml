@@ -8,7 +8,7 @@
             <sparkle:version>1.7</sparkle:version>
             <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://chrisgreg.github.io/promptly-releases/Promptly.dmg" length="6981640" type="application/octet-stream" sparkle:edSignature="hu14fPx0Fqp2IR3FizC4OAeYTM4hlqqB6w/jUNI0rKfvAh1hD7iRUH7a2ZLOFBE6O+MvZjrZ3e95aNR42HEABQ=="/>
+            <enclosure url="https://github.com/chrisgreg/promptly-releases/releases/download/v1.7/Promptly.dmg" length="6981640" type="application/octet-stream" sparkle:edSignature="hu14fPx0Fqp2IR3FizC4OAeYTM4hlqqB6w/jUNI0rKfvAh1hD7iRUH7a2ZLOFBE6O+MvZjrZ3e95aNR42HEABQ=="/>
         </item>
         <item>
             <title>1.6.1</title>
